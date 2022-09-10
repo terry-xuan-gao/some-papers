@@ -21,3 +21,6 @@
 
 ###  `2022.9.5 - 2022.9.11`
 - [3D reconstruction of GMAW pool surface using composite sensor technology](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/3D%20reconstruction%20of%20complex%20spatial%20weld%20seam%20for%20autonomous%20welding%20by%20laser%20structured%20light%20scanning.pdf)
+ <div align="center">
+<img src=https://github.com/terry-xuan-gao/SomePapers/blob/main/image/3-1.png width=45%/>
+</div>
