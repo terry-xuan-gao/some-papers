@@ -26,3 +26,4 @@
 </div>
 
 ###  `2022.9.12 - 2022.9.18`
+- [Online Measurement of the GMAW Process Using Composite Sensor Technology](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/Online%20Measurement%20of%20the%20GMAW%20Process%20Using%20Composite%20Sensor%20Technology.pdf)
