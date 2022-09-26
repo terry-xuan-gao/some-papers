@@ -32,4 +32,5 @@
 </div>
 
 ###  `2022.9.19 - 2022.9.25`
-- [A review of vision-aided robotic welding](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/A%20review%20of%20vision-aided%20robotic%20welding.pdf)
+- [结构光测量系统的标定方法综述](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/%E7%BB%93%E6%9E%84%E5%85%89%E6%B5%8B%E9%87%8F%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%A0%87%E5%AE%9A%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0_%E5%88%98%E9%A1%BA%E6%B6%9B.pdf)
+<!-- - [A review of vision-aided robotic welding](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/A%20review%20of%20vision-aided%20robotic%20welding.pdf) -->
