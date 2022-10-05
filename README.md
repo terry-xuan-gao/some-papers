@@ -38,3 +38,4 @@
 </div>
 
 ###  `2022.9.26 - 2022.10.2`
+- [自适应焊缝激光扫描装置及控制方法](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/%E8%87%AA%E9%80%82%E5%BA%94%E7%84%8A%E7%BC%9D%E6%BF%80%E5%85%89%E6%89%AB%E6%8F%8F%E8%A3%85%E7%BD%AE%E5%8F%8A%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95.pdf)
