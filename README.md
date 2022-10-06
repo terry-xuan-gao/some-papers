@@ -41,3 +41,4 @@
 - [自适应焊缝激光扫描装置及控制方法](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/%E8%87%AA%E9%80%82%E5%BA%94%E7%84%8A%E7%BC%9D%E6%BF%80%E5%85%89%E6%89%AB%E6%8F%8F%E8%A3%85%E7%BD%AE%E5%8F%8A%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95.pdf)
 
 ###  `2022.10.3 - 2022.10.9`
+- [基于分块显示的工字型焊件感兴趣区域自适应提取](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/%E5%9F%BA%E4%BA%8E%E5%88%86%E5%9D%97%E6%98%BE%E7%A4%BA%E7%9A%84%E5%B7%A5%E5%AD%97%E5%9E%8B%E7%84%8A%E4%BB%B6%E6%84%9F%E5%85%B4%E8%B6%A3%E5%8C%BA%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94%E6%8F%90%E5%8F%96.pdf)
