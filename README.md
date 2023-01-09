@@ -45,4 +45,5 @@
 
 
 ###  `2023.1.1 - 2023.1.7`
-
+- [A review of vision-aided robotic welding](https://github.com/terry-xuan-gao/SomePapers/blob/main/paper/A%20review%20of%20vision-aided%20robotic%20welding.pdf)
+ 
